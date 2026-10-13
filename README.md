@@ -1,0 +1,2 @@
+# BI_Project_Healthcare-Patient_Appointment_Booking_System
+End to End BI project: End-to-end BI project: wrote a full BRD (36 functional requirements, 22 user stories, traceability matrix etc) and analysed 110K+ clinic appointments in Python using pandas to set a 20.2% no-show baseline KPI, identify lead time as the key risk driver, expose a confounded SMS result, and map insights to requirements.
